@@ -18,3 +18,9 @@ Checkmarks track how many work sessions you've completed.
 ## Requirements
 - Python 3
 - Tkinter (included with Python by default)
+
+## Built With
+- Python 3
+- Tkinter - for the GUI
+- Math module - for countdown calculations
+- Object-oriented design with global state management
